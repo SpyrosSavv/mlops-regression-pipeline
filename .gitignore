@@ -24,6 +24,9 @@ wheels/
 # Datasets (raw + processed)
 data/
 
+# Trained model and encoder artifacts
+models/
+
 # MLflow experiment tracking
 mlruns/
 
